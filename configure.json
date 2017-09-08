@@ -1,0 +1,13 @@
+// 将设置放入此文件中以覆盖默认设置
+{
+    "vsicons.icons": "/Users/moon/vsc/icons.zip",
+    "workbench.colorTheme": "One Dark Pro Vivid",
+    "workbench.iconTheme": "vscode-great-icons",
+    "window.zoomLevel": 0,
+    "todohighlight.isEnable": true,
+    "todohighlight.toggleURI": true,
+    "fileheader.Author": "Seth",
+    "fileheader.LastModifiedBy": "Seth",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "Meslo LG S DZ for Powerline"
+    }
